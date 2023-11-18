@@ -12,12 +12,13 @@ Screenshots and Visual Aids: Where applicable, screenshots, diagrams, and other 
 CTF Categories
 The challenges covered in this repository span across various categories common in CTF competitions, including but not limited to:
 
-Web Exploitation
-Binary Exploitation
-Cryptography
-Reverse Engineering
-Forensics
+Web Exploitation, 
+Binary Exploitation, 
+Cryptography, 
+Reverse Engineering, 
+Forensics, 
 Network Security
+
 Purpose and Use
 This repository is intended for educational purposes and as a means to share knowledge within the cybersecurity community. It can be a valuable resource for:
 
