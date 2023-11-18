@@ -2,14 +2,14 @@
 CTF Walkthroughs Repository
 Welcome to my repository of Capture The Flag (CTF) walkthroughs! This repository is a comprehensive collection of detailed walkthroughs for various CTF challenges that I have completed. It serves as both a personal archive and a resource for others in the cybersecurity community who are looking to learn and improve their skills in this exciting and challenging field.
 
-Repository Contents
+Repository Contents: 
 Each folder in this repository represents a different CTF event or challenge, and contains the following:
 
 Detailed Walkthroughs: Step-by-step guides explaining how I approached and solved each challenge. These walkthroughs include explanations of the thought process, methodologies, tools used, and the reasoning behind each step.
 
 Screenshots and Visual Aids: Where applicable, screenshots, diagrams, and other visual aids are included to help illustrate key points or steps in the walkthrough.
 
-CTF Categories
+CTF Categories: 
 The challenges covered in this repository span across various categories common in CTF competitions, including but not limited to:
 
 Web Exploitation, 
@@ -19,7 +19,7 @@ Reverse Engineering,
 Forensics, 
 Network Security
 
-Purpose and Use
+Purpose and Use: 
 This repository is intended for educational purposes and as a means to share knowledge within the cybersecurity community. It can be a valuable resource for:
 
 Beginners: Those who are new to CTFs can learn from the detailed explanations and step-by-step approaches to various types of challenges.
